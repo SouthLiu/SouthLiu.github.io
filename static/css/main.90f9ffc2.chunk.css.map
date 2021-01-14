@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAEA,KACE,YACF","file":"main.90f9ffc2.chunk.css","sourcesContent":["@import '~antd/dist/antd.css';\r\n\r\nbody {\r\n  padding: 20px;\r\n}"]}
